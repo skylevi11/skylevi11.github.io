@@ -1,7 +1,0 @@
-/* CSS Document */
-::selection {
-  background: #117184; /* WebKit/Blink Browsers */
-}
-::-moz-selection {
-  background: #117184; /* Gecko Browsers */
-}
