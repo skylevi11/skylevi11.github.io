@@ -32,15 +32,13 @@ vertical-align: 50%;
 }
 
 .footer1 {
-    /* The image used */
-    background-color: #2e2e2e;
-
-
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-	background-attachment: fixed;
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: lightgray;
+   color: black;
+   text-align: center;
 }
 
 .title {
