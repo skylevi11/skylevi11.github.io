@@ -28,8 +28,10 @@ vertical-align: 50%;
 	align-content: center;
 	height: 20%;
 	text-align: center;
-	
 }
+
+
+
 
 .footer {
   right: 0;
@@ -53,6 +55,9 @@ vertical-align: 50%;
 	
 
 }
+
+
+
 .title {
     color: white
 }
@@ -110,4 +115,5 @@ vertical-align: 50%;
   from{border-right-color: rgba(255,255,255,.75);}
   to{border-right-color: transparent;}
 }
+
 
