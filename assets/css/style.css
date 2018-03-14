@@ -31,16 +31,28 @@ vertical-align: 50%;
 	
 }
 
-.footer1 {
-	position: relative;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: lightgrey;
-   color: black;
-   text-align: center;
+.footer {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
 }
 
+.navbar {
+	opacity: .8;    
+	background: -webkit-linear-gradient(#212121, #424242);
+	background: -o-linear-gradient(#212121, #424242);
+	background: linear-gradient(#212121, #424242); 
+	box-shadow: 3px 3px 50px black;
+}
+
+.whenhoovernav:hover{ 
+	background-color: dodgerblue;
+	
+
+}
 .title {
     color: white
 }
