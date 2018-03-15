@@ -49,6 +49,7 @@ vertical-align: 50%;
 	background: linear-gradient(#212121, #424242); 
 	box-shadow: 3px 3px 50px black;
 	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
 }
 
 .whenhoovernav:hover{ 
